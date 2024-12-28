@@ -900,7 +900,7 @@ a {
 }
 .cid-uyfbjprLx3 .dropdown-menu,
 .cid-uyfbjprLx3 .navbar.opened {
-  background: #9fdbf8 !important;
+  background: #ffffff !important;
 }
 .cid-uyfbjprLx3 .nav-item:focus,
 .cid-uyfbjprLx3 .nav-link:focus {
@@ -934,7 +934,7 @@ a {
   min-height: 70px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: rgba(159, 219, 248, 0.7);
+  background: rgba(255, 255, 255, 0.2);
 }
 .cid-uyfbjprLx3 .navbar.opened {
   transition: all .3s;
@@ -1074,7 +1074,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-uyfbjprLx3 .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #9fdbf8;
+  background: #ffffff;
 }
 .cid-uyfbjprLx3 .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -1175,6 +1175,65 @@ a {
     max-width: calc(100% + 2rem);
     left: -1rem;
   }
+}
+.cid-uyfH8PyOTe {
+  background-image: url("../../../assets/images/background15.jpg");
+}
+.cid-uyfH8PyOTe .social-row .soc-item {
+  display: inline-block;
+  text-align: center;
+  margin-bottom: 1rem;
+  margin-right: .7rem;
+}
+.cid-uyfH8PyOTe .social-row .soc-item .mbr-iconfont {
+  font-size: 32px;
+  border-radius: 50%;
+  padding: 0.6rem;
+  border: 2px solid #232323;
+  transition: all 0.3s;
+  color: #232323;
+}
+.cid-uyfH8PyOTe .social-row .soc-item .mbr-iconfont:hover {
+  background-color: #232323;
+  color: #ffffff;
+}
+.cid-uyfBgop1NW {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-uyfBgop1NW .mbr-section-title,
+.cid-uyfBgop1NW .mbr-section-subtitle {
+  text-align: center;
+}
+.cid-uyfBgop1NW .cost {
+  word-break: normal;
+}
+.cid-uyfBgop1NW .card-wrapper {
+  margin-bottom: 2rem;
+  border-radius: 4px;
+  background: #fafafa;
+}
+.cid-uyfBgop1NW .card-wrapper .top-line {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+@media (min-width: 768px) {
+  .cid-uyfBgop1NW .card-wrapper {
+    padding: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-uyfBgop1NW .card-wrapper {
+    padding: 1rem;
+  }
+}
+.cid-uyfBgop1NW .card-title {
+  color: #e43f3f;
+}
+.cid-uyfBgop1NW P {
+  text-align: left;
 }
 .cid-uyfeLmJ4RW {
   padding-top: 6rem;
@@ -1812,7 +1871,7 @@ a {
 }
 .cid-uyfbjprLx3 .dropdown-menu,
 .cid-uyfbjprLx3 .navbar.opened {
-  background: #9fdbf8 !important;
+  background: #ffffff !important;
 }
 .cid-uyfbjprLx3 .nav-item:focus,
 .cid-uyfbjprLx3 .nav-link:focus {
@@ -1846,7 +1905,7 @@ a {
   min-height: 70px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: rgba(159, 219, 248, 0.7);
+  background: rgba(255, 255, 255, 0.2);
 }
 .cid-uyfbjprLx3 .navbar.opened {
   transition: all .3s;
@@ -1986,7 +2045,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-uyfbjprLx3 .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #9fdbf8;
+  background: #ffffff;
 }
 .cid-uyfbjprLx3 .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -2115,6 +2174,34 @@ a {
 }
 .cid-uyfofY1Yq7 .mbr-section-btn {
   margin-bottom: 1.2rem;
+}
+.cid-uyfzyAE98b {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/background1.jpg");
+}
+@media (max-width: 767px) {
+  .cid-uyfzyAE98b .row {
+    flex-direction: column-reverse;
+  }
+  .cid-uyfzyAE98b .mbr-figure {
+    margin-bottom: 1.5rem;
+  }
+}
+.cid-uyfzyAE98b .row {
+  align-items: center;
+}
+@media (min-width: 992px) {
+  .cid-uyfzyAE98b .text-wrapper {
+    padding: 0 2rem;
+  }
+}
+.cid-uyfzyAE98b .media-content,
+.cid-uyfzyAE98b .mbr-figure {
+  align-self: center;
+}
+.cid-uyfzyAE98b .mbr-figure iframe {
+  width: 100%;
 }
 .cid-uyfjsMtESc {
   padding-top: 6rem;
@@ -2357,7 +2444,7 @@ a {
 }
 .cid-uyfbjprLx3 .dropdown-menu,
 .cid-uyfbjprLx3 .navbar.opened {
-  background: #9fdbf8 !important;
+  background: #ffffff !important;
 }
 .cid-uyfbjprLx3 .nav-item:focus,
 .cid-uyfbjprLx3 .nav-link:focus {
@@ -2391,7 +2478,7 @@ a {
   min-height: 70px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: rgba(159, 219, 248, 0.7);
+  background: rgba(255, 255, 255, 0.2);
 }
 .cid-uyfbjprLx3 .navbar.opened {
   transition: all .3s;
@@ -2531,7 +2618,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-uyfbjprLx3 .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #9fdbf8;
+  background: #ffffff;
 }
 .cid-uyfbjprLx3 .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
