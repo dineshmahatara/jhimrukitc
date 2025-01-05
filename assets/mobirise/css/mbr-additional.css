@@ -1098,7 +1098,8 @@ a {
   }
 }
 .cid-uyfH8PyOTe {
-  background-image: url("../../../assets/images/background15.jpg");
+  padding-top: 6rem;
+  padding-bottom: 6rem;
 }
 .cid-uyfH8PyOTe .social-row .soc-item {
   display: inline-block;
@@ -1119,6 +1120,8 @@ a {
   color: #ffffff;
 }
 .cid-uygJfeHSlh {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
   background-image: url("../../../assets/images/background5.jpg");
 }
 .cid-uygJfeHSlh .number-wrap {
